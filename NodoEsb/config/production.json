@@ -1,0 +1,17 @@
+{
+  "Nodos":[
+    {
+      "nodo": "nodoeuropa.grupo5.com",
+      "servidor": "pim.grupo5.com"
+    },
+    {
+      "nodo": "nodoamerica.grupo4.com",
+      "servidor": "oauth2.grupo4.com"
+    },
+    {
+      "nodo": "nodooceania.grupo3.com",
+      "servidor": "Tienda.Australia.grupo3.com"
+    }
+  ],
+  "Actual": "nodoeuropa.grupo5.com"
+}

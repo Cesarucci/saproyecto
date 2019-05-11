@@ -1,0 +1,16 @@
+{
+  "name": "servicio1",
+  "version": "1.0.0",
+  "description": "un microservicio para probar swarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luigitercero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
